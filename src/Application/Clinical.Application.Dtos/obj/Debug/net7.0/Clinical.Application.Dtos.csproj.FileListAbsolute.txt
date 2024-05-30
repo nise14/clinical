@@ -1,0 +1,11 @@
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Dtos\bin\Debug\net7.0\Clinical.Application.Dtos.deps.json
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Dtos\bin\Debug\net7.0\Clinical.Application.Dtos.dll
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Dtos\bin\Debug\net7.0\Clinical.Application.Dtos.pdb
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Dtos\obj\Debug\net7.0\Clinical.Application.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Dtos\obj\Debug\net7.0\Clinical.Application.Dtos.AssemblyInfoInputs.cache
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Dtos\obj\Debug\net7.0\Clinical.Application.Dtos.AssemblyInfo.cs
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Dtos\obj\Debug\net7.0\Clinical.Application.Dtos.csproj.CoreCompileInputs.cache
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Dtos\obj\Debug\net7.0\Clinical.Application.Dtos.dll
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Dtos\obj\Debug\net7.0\refint\Clinical.Application.Dtos.dll
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Dtos\obj\Debug\net7.0\Clinical.Application.Dtos.pdb
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Dtos\obj\Debug\net7.0\ref\Clinical.Application.Dtos.dll

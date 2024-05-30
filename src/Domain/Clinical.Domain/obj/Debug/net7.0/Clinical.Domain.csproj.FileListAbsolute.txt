@@ -1,0 +1,11 @@
+C:\Repository\ClinicalLaboratory\Back\src\Domain\Clinical.Domain\bin\Debug\net7.0\Clinical.Domain.deps.json
+C:\Repository\ClinicalLaboratory\Back\src\Domain\Clinical.Domain\bin\Debug\net7.0\Clinical.Domain.dll
+C:\Repository\ClinicalLaboratory\Back\src\Domain\Clinical.Domain\bin\Debug\net7.0\Clinical.Domain.pdb
+C:\Repository\ClinicalLaboratory\Back\src\Domain\Clinical.Domain\obj\Debug\net7.0\Clinical.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\ClinicalLaboratory\Back\src\Domain\Clinical.Domain\obj\Debug\net7.0\Clinical.Domain.AssemblyInfoInputs.cache
+C:\Repository\ClinicalLaboratory\Back\src\Domain\Clinical.Domain\obj\Debug\net7.0\Clinical.Domain.AssemblyInfo.cs
+C:\Repository\ClinicalLaboratory\Back\src\Domain\Clinical.Domain\obj\Debug\net7.0\Clinical.Domain.csproj.CoreCompileInputs.cache
+C:\Repository\ClinicalLaboratory\Back\src\Domain\Clinical.Domain\obj\Debug\net7.0\Clinical.Domain.dll
+C:\Repository\ClinicalLaboratory\Back\src\Domain\Clinical.Domain\obj\Debug\net7.0\refint\Clinical.Domain.dll
+C:\Repository\ClinicalLaboratory\Back\src\Domain\Clinical.Domain\obj\Debug\net7.0\Clinical.Domain.pdb
+C:\Repository\ClinicalLaboratory\Back\src\Domain\Clinical.Domain\obj\Debug\net7.0\ref\Clinical.Domain.dll

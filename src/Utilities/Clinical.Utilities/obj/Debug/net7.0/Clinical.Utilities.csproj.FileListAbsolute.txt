@@ -1,0 +1,11 @@
+C:\Repository\ClinicalLaboratory\Back\src\Utilities\Clinical.Utilities\bin\Debug\net7.0\Clinical.Utilities.deps.json
+C:\Repository\ClinicalLaboratory\Back\src\Utilities\Clinical.Utilities\bin\Debug\net7.0\Clinical.Utilities.dll
+C:\Repository\ClinicalLaboratory\Back\src\Utilities\Clinical.Utilities\bin\Debug\net7.0\Clinical.Utilities.pdb
+C:\Repository\ClinicalLaboratory\Back\src\Utilities\Clinical.Utilities\obj\Debug\net7.0\Clinical.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\ClinicalLaboratory\Back\src\Utilities\Clinical.Utilities\obj\Debug\net7.0\Clinical.Utilities.AssemblyInfoInputs.cache
+C:\Repository\ClinicalLaboratory\Back\src\Utilities\Clinical.Utilities\obj\Debug\net7.0\Clinical.Utilities.AssemblyInfo.cs
+C:\Repository\ClinicalLaboratory\Back\src\Utilities\Clinical.Utilities\obj\Debug\net7.0\Clinical.Utilities.csproj.CoreCompileInputs.cache
+C:\Repository\ClinicalLaboratory\Back\src\Utilities\Clinical.Utilities\obj\Debug\net7.0\Clinical.Utilities.dll
+C:\Repository\ClinicalLaboratory\Back\src\Utilities\Clinical.Utilities\obj\Debug\net7.0\refint\Clinical.Utilities.dll
+C:\Repository\ClinicalLaboratory\Back\src\Utilities\Clinical.Utilities\obj\Debug\net7.0\Clinical.Utilities.pdb
+C:\Repository\ClinicalLaboratory\Back\src\Utilities\Clinical.Utilities\obj\Debug\net7.0\ref\Clinical.Utilities.dll

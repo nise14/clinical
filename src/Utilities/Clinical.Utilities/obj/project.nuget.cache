@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IAZRKYJitkt3xMreF1qZleDUYvEu7GbijIVMY/BDNihmh+YYp3/zV0v3pWB0gc+PDfJH4D4qxAbm+9gJK1e2xA==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\ClinicalLaboratory\\Back\\src\\Utilities\\Clinical.Utilities\\Clinical.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

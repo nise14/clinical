@@ -1,0 +1,17 @@
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\bin\Debug\net7.0\Clinical.Application.Interface.deps.json
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\bin\Debug\net7.0\Clinical.Application.Interface.dll
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\bin\Debug\net7.0\Clinical.Application.Interface.pdb
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\bin\Debug\net7.0\Clinical.Domain.dll
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\bin\Debug\net7.0\Clinical.Domain.pdb
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\obj\Debug\net7.0\Clinical.Application.Interface.csproj.AssemblyReference.cache
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\obj\Debug\net7.0\Clinical.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\obj\Debug\net7.0\Clinical.Application.Interface.AssemblyInfoInputs.cache
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\obj\Debug\net7.0\Clinical.Application.Interface.AssemblyInfo.cs
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\obj\Debug\net7.0\Clinical.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\obj\Debug\net7.0\Clinical.Application.Interface.csproj.CopyComplete
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\obj\Debug\net7.0\Clinical.Application.Interface.dll
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\obj\Debug\net7.0\refint\Clinical.Application.Interface.dll
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\obj\Debug\net7.0\Clinical.Application.Interface.pdb
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\obj\Debug\net7.0\ref\Clinical.Application.Interface.dll
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\bin\Debug\net7.0\Clinical.Application.Dtos.dll
+C:\Repository\ClinicalLaboratory\Back\src\Application\Clinical.Application.Interface\bin\Debug\net7.0\Clinical.Application.Dtos.pdb

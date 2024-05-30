@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UAcvuvuwvuz4NCyFuWSLUQ72fF8zE5p62cp/V6Nui2/X9T0PvAXFR6rWKlgbOqHXb+6eFAi6MhF/zFL4Uv+heg==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\ClinicalLaboratory\\Back\\src\\Infrastructure\\Clinical.Infrastructure\\Clinical.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
